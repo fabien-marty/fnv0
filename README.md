@@ -3,7 +3,7 @@
 > [!CAUTION]
 > This project is now maintained in another organization: [https://github.com/botify-labs/fnv-c](https://github.com/botify-labs/fnv-c)
 >
-> **THIS REPOSITORY HERE IS SO IN ARCHIVE MODE**
+> **THIS REPOSITORY HERE IS THEREFORE IN ARCHIVE MODE**
 
 ## What is it?
 
