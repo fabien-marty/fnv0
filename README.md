@@ -1,6 +1,9 @@
 # fnv0
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/fabien-marty/fnv0/lint.yaml)](https://github.com/fabien-marty/fnv0/actions/workflows/lint.yaml)
+> [!CAUTION]
+> This project is now maintained in another organization: [https://github.com/botify-labs/fnv-c](https://github.com/botify-labs/fnv-c)
+>
+> **THIS REPOSITORY HERE IS SO IN ARCHIVE MODE**
 
 ## What is it?
 
